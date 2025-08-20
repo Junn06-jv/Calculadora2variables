@@ -54,7 +54,7 @@ public class Hello {
         return num1 * num2;
     }
 
-    public static float division(int num1, int num2) {
+    public static float division(float num1, float num2) {
         try {
             return num1 / num2;
         } catch (Exception e) {
